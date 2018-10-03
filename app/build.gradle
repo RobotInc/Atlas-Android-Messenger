@@ -9,7 +9,7 @@ android {
         applicationId "com.layer.messenger"
         minSdkVersion 14
         targetSdkVersion 27
-        versionCode 84
+        versionCode 85
         versionName "$versionCode"
         testInstrumentationRunner 'com.layer.messenger.testrunner.TestButlerRunner'
     }
